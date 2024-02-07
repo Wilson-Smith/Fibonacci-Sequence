@@ -1,6 +1,8 @@
 # Fibonacci-Sequence
 A Simple School Project on the Fibonacci Sequence
 
+## All the code involved is in the fibonacci module (module_fibonacci.py) for anyone interested.
+
 The project is really simple.
 With the help of python, This project want to show some graphs related to the fibonacci sequence.
 
@@ -11,3 +13,7 @@ The ***fibonacci Sequence*** branch is a branch where it is all related to this 
 
 The ***Squared fibonacci*** is related to this equation:
 ### $F^2 (n) = F(n) * F(n+1)$
+
+
+
+
