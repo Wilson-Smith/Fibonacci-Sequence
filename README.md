@@ -14,13 +14,9 @@ The ***Fibonacci Sequence*** branch is a branch where it is all related to this 
 The ***Squared fibonacci*** is related to this equation:
 ### $F^2 (n) = F(n) * F(n+1)$
 
-
 In the branches there are 3 files:
 - Normal File
 - Graph (A file for a Fibonacci Sequence Graph)
-- Ratio
-    - follows this **F(n)/F(n-1)** formula in the Fibonacci Sequence
-    - follows this ** ** formula in the Squared Fibonacci
+- Ratio, showing the ongoing approximation (follows this **F(n)/F(n-1)** formula)
 
-
-
+Here the Wikipedia Page for more infos on this topic: <https://en.wikipedia.org/wiki/Fibonacci_sequence>
